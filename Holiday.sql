@@ -1,3 +1,6 @@
+create database holi;
+use holi;
+
 -- Tạo bảng
 CREATE TABLE teachers (
     id INT PRIMARY KEY AUTO_INCREMENT,
